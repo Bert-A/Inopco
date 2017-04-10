@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descGrad">Filler gradient.</string>
+    <string name="intro"><b>Inopco BVBA</b> is  a young and dynamic company that is specialised in <b>\"General  Electricity works.\"</b>\n\nFrom the <b>smallest</b> adjustments to the <b>bigger</b> projects.\n\nOur work is <b>tailor made</b>: together with you, we will look for the best solution to your specific situation. You will tell us <b>your ideas</b>, and we will realise them. We can advise you, because we are informed of the latest technological developments.\n\n<b>Contact us</b> if you would like to know more; we are ready to answer your questions.</string>
+    <string name="tel">tel. +32 494 / 23 63 31</string>
+    <string name="site" translatable="false">http://www.inopco.be/</string>
+</resources>
