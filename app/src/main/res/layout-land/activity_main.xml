@@ -13,9 +13,9 @@
         android:id="@+id/header"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="3"
+        android:layout_weight="5"
         android:contentDescription="@string/descLogo"
-        android:paddingTop="16dp"
+        android:paddingTop="8dp"
         android:src="@drawable/header" />
 
     <ImageView
@@ -27,10 +27,11 @@
         android:scaleType="fitXY"
         app:srcCompat="@drawable/gradient" />
 
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="5"
+        android:layout_weight="8"
         android:background="#ABC637"
         android:orientation="vertical">
 

@@ -2,7 +2,6 @@
     <string name="app_name" translatable="false">Inopco</string>
     <string name="descLogo" translatable="false">Inopco logo</string>
     <string name="descGrad">Opvullende gradient.</string>
-    <string name="intro"><b>Inopco BVBA</b> is een jong en dynamisch bedrijf dat gespecialiseerd is in <b>"Algemene Elektriciteitswerken."</b>\n\nVan de <b>kleinste</b> aanpassingen tot de <b>grotere</b> projecten.\n\nWij werken op <b>maat</b>: samen met u zoeken we de beste oplossing voor uw specifieke situatie. U vertelt ons <b>uw ideeën</b>, en wij realiseren die. Wij kunnen u adviseren omdat we op de hoogte zijn van de laatste nieuwe technologische ontwikkelingen.\n\n<b>Contacteer ons</b> gerust voor meer informatie; wij staan klaar om u vragen te beantwoorden.</string>
-    <string name="tel">tel. 0494/23 63 31</string>
-    <string name="site">http://www.inopco.be/</string>
+    <string name="intro"><b>Inopco BVBA</b> is een jong en dynamisch bedrijf dat gespecialiseerd is in <b>"Algemene Elektriciteitswerken"</b>, van de <b>kleinste</b> aanpassingen tot de <b>grotere</b> projecten.\n\nWij werken op <b>maat</b>: samen met u zoeken we de beste oplossing voor uw specifieke situatie. U vertelt ons <b>uw ideeën</b>, en wij realiseren die. Wij kunnen u adviseren omdat we op de hoogte zijn van de laatste nieuwe technologische ontwikkelingen.\n\n<b>Contacteer ons</b> gerust voor meer informatie; wij staan klaar om u vragen te beantwoorden.</string>
+    <string name="contact" translatable="false">tel. 0494/23 63 31  |  http://www.inopco.be</string>
 </resources>
